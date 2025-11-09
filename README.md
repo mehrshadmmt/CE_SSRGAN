@@ -29,4 +29,3 @@ If you find this work useful, please cite the paper:
 
 ---
 
-This version reflects the content of your paper and is formatted to fit well on GitHub. Let me know if you need further adjustments!
